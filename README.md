@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chaubeyvinay1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vinay Chaubey
+- 👀 I’m interested in Development and learning new technology.
+- 🌱 I’m currently learning PySpark, Mux(Golang framework)
+- 💞️ I’m looking to collaborate with Product based organization
+- 📫 How to reach me : connect me on linkedIn https://www.linkedin.com/in/vinay-chaubey-871a53128/
 
 <!---
 chaubeyvinay1995/chaubeyvinay1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
