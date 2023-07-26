@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Chaubey
 - 👀 I’m interested in Development and learning new technology.
-- 🌱 I’m currently learning PySpark, Mux(Golang framework)
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate with Product based organization
 - 📫 How to reach me : connect me on linkedIn https://www.linkedin.com/in/vinay-chaubey-871a53128/
 
